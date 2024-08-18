@@ -2,13 +2,19 @@
 
 **KUNDRU** is an online store for art prints, developed as a final project for the "Internet Server Programming" course during the Summer Semester 2024 at the Berliner Hochschule für Technik (BHT).
 
+![home](https://github.com/user-attachments/assets/a51b774a-9538-4810-9ce2-17b7daef3b33)
+
 ## Features
 
 #### Shop
 Users can explore artworks in various categories. Each product is also presented in a detailed product view. Additionally, the shop offers filtering and sorting options as well as a search function to find specific artworks or artists.
 
+![shop](https://github.com/user-attachments/assets/6f8485a9-2bf0-4e30-9d1e-940c67d17415)
+
 #### Cart & Checkout
 The shop allows users to add art prints to their cart and securely complete purchases via Stripe.
+
+![checkout](https://github.com/user-attachments/assets/205aeac9-831e-4ed7-9460-c08210bfd181)
 
 #### Registration and Login
 Users can register and log in to access personalized features.
