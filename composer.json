@@ -1,0 +1,16 @@
+{
+    "name": "jessi/kundru",
+    "description": "E-Commerce-Website mit Stripe-Integration",
+    "type": "project",
+    "require": {
+        "stripe/stripe-php": "^15.6@beta"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jessica Charzynski",
+            "email": "jessica.charzynski@web.de"
+        }
+    ],
+    "minimum-stability": "beta"
+}
