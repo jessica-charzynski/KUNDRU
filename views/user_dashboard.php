@@ -142,6 +142,7 @@ if (isset($_SESSION['user_id'])) {
                                 </thead>
                                 <tbody>
                                     <?php
+                                    $displayedOrders = [];
                                     foreach ($orders as $order) {
                                         $formattedTotalAmount = number_format($order['TotalAmount'], 2, ',', '.') . ' €';
                                         if (!in_array($order['OrderID'], $displayedOrders)) {
